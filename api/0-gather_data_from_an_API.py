@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+"""Module"""
+
 import requests
 import sys
 
