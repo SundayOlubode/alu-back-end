@@ -2,6 +2,7 @@
 """
     python script that exports data in the CSV format
 """
+
 import csv
 import json
 import requests
